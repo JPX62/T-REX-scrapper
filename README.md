@@ -5,8 +5,8 @@
 </a>
    <br>
    <b>T-REX USERBOT</b><br>
-   <i>The Most advantagious scrapper
- FROM TEAM TOXIC</i>
+   <i>The Most advantagious scrapper</i>
+   <i>FROM TEAM TOXIC</i>
 </p>
 
 FROM TEAM TOXIC
