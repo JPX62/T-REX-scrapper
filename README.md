@@ -2,13 +2,13 @@
    
    <a href="https://github.com/JPX62/T-REX-scrapper">
       <img src="https://telegra.ph/file/4fd8dcd5319be4e025022.jpg" alt="firex", height="300px",width="300px">
-   </a>
-   
-   T-REX SCRAPPER
-   THE ADVANTAGIOUS SCRAPPER BOT
+</a>
+   <br>
+   <b>T-REX USERBOT</b><br>
+   <i>The Most advantagious scrapper</i>
 </p>
 
-FROM TEAM TOXIC
+# FROM TEAM TOXIC
 
 GREAT THANKS TO 
 - [DIPESH XD](https://github.com/DipeshxD/DipeshxD)😘 -
