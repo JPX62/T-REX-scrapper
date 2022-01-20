@@ -1,3 +1,3 @@
 # T-REX-scrapper
 
-official thanks too @DipeshxD  &&  @Kall0408
+official thanks to @DipeshxD  &&  @Kall0408
