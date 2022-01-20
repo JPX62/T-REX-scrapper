@@ -4,18 +4,11 @@
       <img src="https://telegra.ph/file/4fd8dcd5319be4e025022.jpg" alt="firex", height="300px",width="300px">
 </a>
    <br>
+    <h2 align="center">FROM TEAM TOXIC</h2>
+
    <b>T-REX USERBOT</b><br>
    <i>The Most advantagious scrapper</i>
-   <h2 align="center">FROM TEAM TOXIC</h2>
 </p>
-
-
-
-
-
-
-
-
 💫GREAT THANKS AND CREDIANTALS GOES TO💫
 - [DIPESH XD](https://github.com/DipeshxD/DipeshxD)😘 -
 Thanks to this great coder for his codes. Full Respect
