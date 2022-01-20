@@ -3,7 +3,7 @@
    <a href="https://github.com/JPX62/T-REX-scrapper">
       <img src="https://telegra.ph/file/4fd8dcd5319be4e025022.jpg" alt="firex", height="300px",width="300px">
    </a>
-   <br>
+   
    T-REX SCRAPPER
    THE ADVANTAGIOUS SCRAPPER BOT
 </p>
