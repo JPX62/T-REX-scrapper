@@ -9,7 +9,7 @@
    <h2 align="center">FROM TEAM TOXIC</h2>
 </p>
 
-FROM TEAM TOXIC
+
 
 💫GREAT THANKS AND CREDIANTALS GOES TO💫
 - [DIPESH XD](https://github.com/DipeshxD/DipeshxD)😘 -
