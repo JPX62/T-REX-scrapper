@@ -1,4 +1,3 @@
-<p align="center">
 # T-REX USERBOT
 <p align="center">  
    <a href="https://github.com/JPX62/T-REX-scrapper">
