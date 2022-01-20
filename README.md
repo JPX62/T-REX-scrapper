@@ -1,4 +1,4 @@
-                                # T-REX USERBOT
+ # T-REX USERBOT
 <p align="center">  
    <a href="https://github.com/JPX62/T-REX-scrapper">
       <img src="https://telegra.ph/file/4fd8dcd5319be4e025022.jpg" alt="firex", height="300px",width="300px">
@@ -10,7 +10,7 @@
 
 FROM TEAM TOXIC
 
-GREAT THANKS TO 
+GREAT THANKS AND CREDIANTALS GOES TO
 - [DIPESH XD](https://github.com/DipeshxD/DipeshxD)😘 -
 Thanks to this great coder for his codes. Full Respect
 
