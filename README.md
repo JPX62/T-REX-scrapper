@@ -1,5 +1,4 @@
  # T-REX USERBOT
- # FROM TEAM TOXIC
 <p align="center">  
    <a href="https://github.com/JPX62/T-REX-scrapper">
       <img src="https://telegra.ph/file/4fd8dcd5319be4e025022.jpg" alt="firex", height="300px",width="300px">
@@ -8,6 +7,8 @@
    <b>T-REX USERBOT</b><br>
    <i>The Most advantagious scrapper</i>
 </p>
+
+FROM TEAM TOXIC
 
 GREAT THANKS AND CREDIANTALS GOES TO
 - [DIPESH XD](https://github.com/DipeshxD/DipeshxD)😘 -
