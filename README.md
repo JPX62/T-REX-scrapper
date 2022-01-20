@@ -4,8 +4,8 @@
       <img src="https://telegra.ph/file/4fd8dcd5319be4e025022.jpg" alt="firex", height="300px",width="300px">
    </a>
    <br>
-   <b>T-REX SCRAPPER</b><br>
-   <i>THE ADVANTAGIOUS SCRAPPER BOT</i>
+   T-REX SCRAPPER
+   THE ADVANTAGIOUS SCRAPPER BOT
 </p>
 
 FROM TEAM TOXIC
