@@ -6,8 +6,8 @@
    <br>
     <h2 align="center">FROM TEAM TOXIC</h2>
 </a>
-   <b>T-REX USERBOT</b><br>
-   <i>The Most advantagious scrapper</i>
+                                                              <b>T-REX USERBOT</b><br>
+                                                       <i>The Most advantagious scrapper</i>
 </p>
 💫GREAT THANKS AND CREDIANTALS GOES TO💫
 - [DIPESH XD](https://github.com/DipeshxD/DipeshxD)😘 -
